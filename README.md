@@ -1,2 +1,0 @@
-# Formulario-OneBit
-Formulario OneBitCode
