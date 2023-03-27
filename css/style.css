@@ -1,0 +1,35 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url(../imagens/backgroundLp.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: right;
+  color: #ffffff;
+}
+
+.container1 {
+  background-color: rgba(19, 18, 18, 0.9450980392);
+  width: 400px;
+  height: auto;
+}
+
+.topLogo {
+  width: 250px;
+}
+
+.paragraph {
+  padding: 8px;
+  color: yellow;
+}
+
+.footer {
+  margin: 3px;
+  padding: 8px;
+}
+
+/*# sourceMappingURL=style.css.map */
